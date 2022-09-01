@@ -14,7 +14,7 @@ This bot requires a postgress database to be setup using the schema in [sql/crea
 Graphs are created using [plotly.js](https://github.com/plotly/plotly.js).
 
 ## Configs
-Config files have to be created in [src/configs](src/configs).
+Config files have to be created in src/configs.
 The files required are:
 1. db.json
 2. discord.json
